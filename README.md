@@ -1,13 +1,13 @@
 ## Helooo 👋
 
 
-**Miranda-source/Miranda-source** este repositorio ✨✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Miranda-source/Miranda-source** este repositorio es parte de mi ✨GitHub profile.✨ 
 
-Here are some ideas to get you started:
+Un poco de mi:
 
 
--✨✨ Me gusta mucho aprender más acerca de JavaScrip. Me parece un lenguaje demasiado amplio y siento que nunca se termina por aprender.
-He probado, poco a poco de la mano con herramientas como HTML, CSS, JSON, React, Node.js, Angular, JQuery, Axios, 
+-✨✨ Me gusta mucho aprender más acerca de JavaScript. Me parece un lenguaje demasiado amplio y siento que nunca se termina por aprender.
+He probado, poco a poco de la mano con herramientas como HTML, CSS, JSON, React, Node.js, Angular, JQuery, Axios, destacablemente.
 
 De la mano de cursos, a prueba tanto como error y avances en proyectos personales.
 
